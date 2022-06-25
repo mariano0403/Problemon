@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\Teleono\bin\Debug\Teleono.exe.config
+C:\Users\Alumno\source\repos\Teleono\bin\Debug\Teleono.exe
+C:\Users\Alumno\source\repos\Teleono\bin\Debug\Teleono.pdb
+C:\Users\Alumno\source\repos\Teleono\obj\Debug\Teleono.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Teleono\obj\Debug\Teleono.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Teleono\obj\Debug\Teleono.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Teleono\obj\Debug\Teleono.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Teleono\obj\Debug\Teleono.exe
+C:\Users\Alumno\source\repos\Teleono\obj\Debug\Teleono.pdb
+C:\Users\Alumno\source\repos\Teleono\obj\Debug\Teleono.Form1.resources
